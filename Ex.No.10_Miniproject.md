@@ -106,4 +106,4 @@ public class SpikeScript : MonoBehaviour
 <img width="1665" height="910" alt="image" src="https://github.com/user-attachments/assets/1b4e7f4c-1b79-49ac-bc1f-acc539ab131b" />
 
 ### Result:
-Thus the game was developed using Unity and adopted _-----------AI technology.
+Thus, the Jumping from Obstacles Game was successfully developed and executed using Unity
